@@ -250,7 +250,7 @@ Other users. Existing users land on the Dashboard screen. The Dashboard displays
 
 Open the New Request widget. To launch a request, click on the green “+Request” button in the top-right corner of the screen.  
 
-![alt](images/img-02-02)
+![alt](images/img-02-01.png)
 
 New Request. A popup widget will open and you click the blue “Start” button to launch a Request process for your training.
 
@@ -259,7 +259,7 @@ To register a Learning track, start a CourseRegistration request.
 To register a Single Training, start a ModuleRegistration request. 
 
 
-![alt](images/img-02-03)
+![alt](images/img-02-02.png)
 
 <!-- 2.2.2  -->
 ### Create a Single Training
@@ -269,11 +269,12 @@ In the Dashboard view, open the New Request Widget by clicking on green “+Requ
 You are redirected to the Requests Screen, where you see your Tasks To Do. Click on “Open Training Information Form” to provide information about your course and register your training. 
 
 
-![alt](https://)
+![alt](images/img-02-03)
+
 
 If the task does not appear right away, we recommend reloading the page. Below is how the task should appear:
 
-![alt](images/img-02-04)
+![alt](images/img-02-04.png)
 
 <!-- 2.2.3 -->
 ### Create a Learning Track
@@ -285,7 +286,7 @@ Request screen. Here, you see the Tasks associated with your current request.
 Request ID : Note that the identifier for your request is displayed in the path for the current view, like so :  Home / Requests / CourseRegistration #700 
 
 
-![alt](images/img-02-05)
+![alt](images/img-02-05.png)
 
 Tasks. Click on “Select training type and Open LT Information Form”. This brings you to the Training Type Form. Select “Learning track” and click submit. You are redirected to Form 3. 
 
