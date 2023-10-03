@@ -5,27 +5,27 @@ Access the [DLH Training Registration system](https://dlh.cloud.processmaker.net
 <!-- Contents  -->
 ## Contents 
 
-### Part 1. [About the TRS ](#link-to-a-heading-in-the-page)
+### Part 1. About the TRS
 
 - [Scenarios ](#scenarios)
 - [Terminology](#terminology)
 - [Requests and Tasks](#requests-and-tasks)
 - [Stages](#stages)
-- [Interface: Views](interface-views)
+- [Interface: Views](#interface-views)
 - [Interface: Forms](#interface-forms)
 
-### Part 2. Using the TRS [Link to a heading in the page](#link-to-a-heading-in-the-page)
+### Part 2. Using the TRS
 
-- [Create an account](#create-and-account)
+- [Create an account and connect](#create-an-account-and-connect)
 - [Create a training ](#create-a-training)
   - [Create Single Training](#create-a-single-training)
   - [Create Learning Track ](#create-a-learning-track)
-- [Response](#response)
+- [Response from the DLH](#response-from-the-dlh)
 
-### Part 3. Guidance notes [Link to a heading in the page](#link-to-a-heading-in-the-page)
+### Part 3. Guidance notes
 
-- for providing general training information [Link to a heading in the page](#link-to-a-heading-in-the-page)
-- for including ESCO concepts [Link to a heading in the page](#link-to-a-heading-in-the-page)
+- [for providing general training information](#guidance-for-providing-general-training-information)
+- [for including ESCO concepts](#guidance-for-including-esco-concepts)
 
 <!-- 1.0 -->
 # Part 1. About the TRS
@@ -56,7 +56,7 @@ An instance of the registration process that is carried out in order to register
 
 **Task**
 
-Opening, completing and submitting the forms needed to carry out the Request.  
+Filling in and submitting the forms needed to carry forward the Request.
 
 <!-- 1.3 -->
 ## Requests and Tasks
@@ -65,15 +65,18 @@ Registering a training involves several processes, which are carried out in the 
 
 There are two kinds of Request you can do to register a training: 
 
-1.	*CourseRegistration* for registering Learning Tracks.
-2.	*ModuleRegistration* for registering Single Trainings.  
+1.	***CourseRegistration*** for registering Learning Tracks.
+
+2.	***ModuleRegistration*** for registering Single Trainings.
 
 ![requests](images/img-01-02.png)
 
-Completing a Request involves carrying out one, or several, Tasks. There are three kinds of Task: 
+Completing a **Request** involves carrying out one, or several, **Tasks**. There are three kinds of Task: 
 
 - *Select training type and Open LT Information Form*
+
 - *Open the Training Information Form*
+
 - *Open the Corrections Form*
 
 ![tasks](images/img-01-03.png)
@@ -81,7 +84,6 @@ Completing a Request involves carrying out one, or several, Tasks. There are thr
 <!-- 1.4 -->
 ## Stages
 
-![stages](images/img-01-04.png)
 
 Stages of the overall training registration process: 
 
@@ -97,6 +99,8 @@ Stage 4. Feedback. Get a response from the DLH Training Administration Team for
 
 - approval and confirmation of your Request.
 
+![stages](images/img-01-04.png)
+
 <!-- 1.5 -->
 ## Interface: Views
 
@@ -104,58 +108,61 @@ Stage 4. Feedback. Get a response from the DLH Training Administration Team for
 <!-- 1.5.1 -->
 #### Dashboard
 
-The entry point and main view of the Dashboard. The Dashboard displays a summary of your requests in three coloured areas : My Requests, In Progress, Completed.
+This is the entry point and main view. It displays a summary of your requests in three coloured areas : My Requests, In Progress, Completed.
 
 <!-- 1.5.2 -->
 #### Requests view
 
-By default, the main view also displays the list of your Requests In Progress. 
+By default, the main view also displays the list of your Requests *In Progress*. 
 
 ![requests view screenshot](images/img-01-05.png)
 <!-- 1.5.3 -->
 #### Tasks view
 
-Displays the list of your Tasks To Do. Tasks are displayed as clickable links which open the relevant forms. 
+Shows the list of your Tasks "To Do", displayed as clickable links, that open the related forms. 
 
 ![tasks view screenshot](images/img-01-06.png)
+
 <!-- 1.5.4 -->
 #### Filters
 
-The above views can be filtered by type of Request, Task, and Status. 
+Both the Request and Task views can be filtered by type and by Status. 
 
 ![filters screenshot](images/img-01-07.png)
 
 <!-- 1.6 -->
 ## Interface: Forms
 
-1.	Select training type form
-2.	Training Information form
-3.	Learning Track Information form
-4.	Corrections form 
+The forms are :
+
+1.	Select Training Type Form
+2.	Training Information Form
+3.	Learning Track Information Form
+4.	Corrections Form
 
 ![forms](images/img-01-08.png)
 
 <!-- 1.6.1 -->
-### Form 1
+### Form 1: Select Training Type
 
 When the Select Training Type Form opens, select “Single training” and click the “Next” button. This brings you to the Training Information Form. 
 
 ![form 1 screenshot](images/img-01-09.png)
 
 <!-- 1.6.2 -->
-### Form 2 Overview
+### Form 2: Training Information Form
 
 ![form 2 overview](images/img-01-10.png)
 
-**WARNING MAKE RED** You may not save data in the forms within a task-in-progress. When you exit from a Task before completing it, your forms are reset. Thus, when you relaunch the Task, you must begin the Task again from scratch. 
+[!WARNING]  
+You may not save data in the forms within a task-in-progress. When you exit from a Task before completing it, your forms are reset. Thus, when you relaunch the Task, you must begin the Task again from scratch.
 
 <!-- 1.6.3 -->
-#### Form 2 Detail
 
 <!-- 1.6.3.1 -->
 #### Screen 1: General training information
 
-Tables
+![form 2 screenshot general training information summary table](images/img-01-23.png)
 
 ![form 2 screenshot general training information 1](images/img-01-11.png)
 ![form 2 screenshot general training information 2](images/img-01-12.png)
@@ -165,16 +172,16 @@ Tables
 <!-- 1.6.3.2 -->
 #### Screen 2: ESCO Concepts
 
-1.	Occupations. Add the ESCO occupations concepts relevant for your training.
-2.	Skills. Add the ESCO skills concepts relevant for your training.
-3.	Prerequisites. Add ESCO skills concepts as pre-requisites for your training.
+1.	**Occupations**: add the ESCO occupations concepts relevant for your training.
+2.	**Skills**: add the ESCO skills concepts relevant for your training.
+3.	**Prerequisites**: add ESCO skills concepts as pre-requisites for your training.
 
 ![form 2 screenshot esco](images/img-01-15.png)
 
 <!-- 1.6.3.3 -->
 #### Screen 3: Computer needs
 
-indicate your computer needs.
+Indicate your computer needs.
 
 ![form 2 screenshot computer needs](images/img-01-16.png)
 
@@ -189,13 +196,15 @@ Propose dates and times for your training.
 #### Screen 5: Review, Additional Information, and Submit
 
 1.	Review screen to check your data before submitting
+
 2.  Additional Information from DLH about
 - 	Virtual machines
 - 	Moodle (online learning platform)
 - 	Paper-free office
 3. Final comments or requirements: specify anything you need that is not considered elsewhere in the form
  
-4. Participant training evaluation agreement
+
+4. Participant training evaluation agreement:
    
 “In order to monitor and improve the quality of our training offer, we would like you to integrate a 5 minutes slot to give the participants the opportunity to evaluate the training. The link and QR Code, which you can integrate in your training presentation, will be sent to you by email from the DLH Training Administration Team. 
 
@@ -205,7 +214,7 @@ Propose dates and times for your training.
 ![form 2 screenshot evaluation agreement](images/img-01-19.png)
 
 <!-- 1.6.4  -->
-### Form 3
+### Form 3: Learning Track Information form
 
 When the Select Training Type Form opens, select “Learning Track” and click the “Next” button. This brings you to the Learning Track Information Form.  
 
@@ -221,7 +230,7 @@ When the Select Training Type Form opens, select “Learning Track” and click 
 ![form 3 screenshot 1](images/img-01-22.png)
 
 <!-- 1.6.5 -->
-### Form 4
+### Form 4: Corrections form
 
 The corrections form contains only the specific fields that need to be revised. 
 
@@ -242,55 +251,57 @@ Account Creation Page. Fill in your chosen User Credentials (user name and passw
 <!--2.2.1 -->
 ### Launch a training registration Request
 
-Login Page. Login with your User Credentials.
+**Login Page.** Login with your User Credentials.
 
-New users (first connection). The first time you login, the system automatically directs you to a Training Type Form, where you select from “Learning Track” and “Single Training”. The appropriate Request is then created and you are directed to the Request view, where you see the Tasks associated with your Request.
+***New users (first connection)***. The first time you login, the system automatically directs you to a Training Type Form, where you select from “Learning Track” and “Single Training”. The appropriate Request is then created and you are directed to the Request view, where you see the Tasks associated with your Request.
 
-Other users. Existing users land on the Dashboard screen. The Dashboard displays a summary of your requests in three coloured areas : My Requests (dark blue), In Progress (green), Completed (light blue).
+***Other users***. Existing users land on the Dashboard screen. The Dashboard displays a summary of your requests in three coloured areas : My Requests (dark blue), In Progress (green), Completed (light blue).
 
-Open the New Request widget. To launch a request, click on the green “+Request” button in the top-right corner of the screen.  
+**Open the New Request widget.** To launch a request, click on the green “+Request” button in the top-right corner of the screen.  
 
 ![alt](images/img-02-01.png)
 
-New Request. A popup widget will open and you click the blue “Start” button to launch a Request process for your training.
+**New Request**. A popup widget will open and you click the **blue “Start” button** to launch a Request process for your training.
 
-To register a Learning track, start a CourseRegistration request.
+To register a Learning track, start a **CourseRegistration** request.
 
-To register a Single Training, start a ModuleRegistration request. 
+To register a Single Training, start a **ModuleRegistration** request. 
 
 
-![alt](images/img-02-02.png)
+![alt](images/img-02-03.png)
 
 <!-- 2.2.2  -->
 ### Create a Single Training
 
-In the Dashboard view, open the New Request Widget by clicking on green “+Request” button in the top right of the screen. Start a ModuleRegistration request to register a Single Training.
+In the Dashboard view, open the **New Request Widget** by clicking on the **green “+Request”** button in the top right of the screen. Start a **ModuleRegistration** request to register a Single Training.
 
-You are redirected to the Requests Screen, where you see your Tasks To Do. Click on “Open Training Information Form” to provide information about your course and register your training. 
-
-
-![alt](images/img-02-03)
+You are redirected to the Requests Screen, where you see your Tasks To Do. Click on **“Open Training Information Form”** to provide information about your course and register your training. 
 
 
-If the task does not appear right away, we recommend reloading the page. Below is how the task should appear:
+![alt](images/img-02-03.png)
+
+[!NOTE]
+If the task does not appear right away, we recommend reloading the page. 
+
+Below is how the task should appear:
 
 ![alt](images/img-02-04.png)
 
 <!-- 2.2.3 -->
 ### Create a Learning Track
 
-You click on Start to launch the CourseRegistration Request process. You are redirected to a new screen.
+Click on **Start** to launch the ***CourseRegistration*** Request process. You are redirected to the Request screen. Here, you see the Tasks associated with your current request. 
 
-Request screen. Here, you see the Tasks associated with your current request. 
-
-Request ID : Note that the identifier for your request is displayed in the path for the current view, like so :  Home / Requests / CourseRegistration #700 
+[!NOTE]
+Request ID : the identifier for your request is displayed in the path for the current view, like so :  Home / Requests / CourseRegistration #700 
 
 
 ![alt](images/img-02-05.png)
 
-Tasks. Click on “Select training type and Open LT Information Form”. This brings you to the Training Type Form. Select “Learning track” and click submit. You are redirected to Form 3. 
+**Tasks.** Click on “Select training type and Open LT Information Form”. This brings you to the Training Type Form. Select “Learning track” and click submit. You are redirected to Form 3. 
 
-**MAKE RED** If the task does not appear right away, we recommend reloading the page.
+[!NOTE]
+If the task does not appear right away, we recommend reloading the page.
 
 <!-- 2.2.4 -->
 #### Form 3 - Learning Track Information form.
@@ -311,7 +322,7 @@ p warning
 You may **not save data** in the forms within a task-in-progress. When you exit from a Task before completing it, your **forms are reset**. Thus, when you relaunch the Task, you must begin the Task again from scratch.  
 
 <!-- 2.3 -->
-## Response: follow-up by the DLH. 
+## Response from the DLH 
 
 <!-- 2.3.1 -->
 ### Email
