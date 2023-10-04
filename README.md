@@ -1,4 +1,4 @@
-# TRS User Guide
+![image](https://github.com/Digital-Learning-Hub-Luxemburg/Training-Registration-System-User-Guide/assets/145449745/bcc7b905-6ed8-4e99-b8b0-e5ce7d17f3cb)
 
 Access the [DLH Training Registration system](https://dlh.cloud.processmaker.net).
 
