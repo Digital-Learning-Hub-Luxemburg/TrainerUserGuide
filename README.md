@@ -1,4 +1,4 @@
-
+![image](https://github.com/Digital-Learning-Hub-Luxemburg/Training-Registration-System-User-Guide/assets/145449745/1457a102-2571-4848-a32a-043c5e7ab9a4)
 
 Access the [DLH Training Registration system](https://dlh.cloud.processmaker.net).
 
