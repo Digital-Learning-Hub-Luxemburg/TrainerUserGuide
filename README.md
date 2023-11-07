@@ -238,14 +238,14 @@ The corrections form contains only the specific fields that need to be revised.
 # Part 2. Using the TRS
 
 <!-- 2.1 -->
-## 2.1 Create an account and connect
+## Create an account and connect
 
 Email. You receive an email with the link to reach the DLH Training Registration Platform. Follow the link to the Anonymous Web Entry page.
 
 Account Creation Page. Fill in your chosen User Credentials (user name and password) to create your account. It is recommended to note the User Name and Password you enter here, before submitting, and make sure to keep a record of these. 
 
-<!--  -->
-## 2.2 Create a training
+<!-- 2.2  -->
+## Create a training
 <!-- steps below -->
 
 <!--2.2.1 -->
